@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jpnuwagaba
 - 👀 I’m interested in web and mobile app development
 - 🌱 I’m conversant with react.js and currently learning next.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m open to collaborating on any project
 - 📫 How to reach me jpnuwagaba1@gmail.com
 
 <!---
